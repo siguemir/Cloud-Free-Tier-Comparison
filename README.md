@@ -19,6 +19,7 @@ Comparing the free tier offers of the major cloud providers like AWS, Azure, GCP
 16. [Container Hosting Service](#16-container-hosting-service)
 17. [Fly.io](#17-fly-io)
 18. [Railway](#18-railway)
+19. [Vultr](#19-vultr)
 
 ## 1. AWS
 
@@ -215,3 +216,11 @@ Homepage: [Railway](https://railway.app/pricing)
 - 512 MB RAM and shared CPU/container
 - 1 GB Disk (split between your services)
 - $5 or 500 hours of usage (deploys shut off when first limit is reached)
+
+## 19. vultr
+
+Homepage: [vultr](https://www.vultr.com/)
+
+### Free for Limited-time
+
+- $250 credit for 90 days from [Try Vultr for free](https://www.vultr.com/promo/try250/)
