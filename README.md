@@ -217,7 +217,7 @@ Homepage: [Railway](https://railway.app/pricing)
 - 1 GB Disk (split between your services)
 - $5 or 500 hours of usage (deploys shut off when first limit is reached)
 
-## 19. vultr
+## 19. Vultr
 
 Homepage: [vultr](https://www.vultr.com/)
 
